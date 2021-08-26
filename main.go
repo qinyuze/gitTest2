@@ -8,4 +8,7 @@ func main() {
 
 	// after first commit
 	fmt.Println("hello 3")
+
+	// change in hot-fix
+	fmt.Println("hello hot-fix")
 }
