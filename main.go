@@ -14,4 +14,7 @@ func main() {
 
 	// change in hot-fix
 	fmt.Println("hello hot-fix")
+
+	// after push to github
+	fmt.Println("hello push to github")
 }
