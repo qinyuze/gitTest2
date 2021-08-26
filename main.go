@@ -8,4 +8,7 @@ func main() {
 
 	// after first commit
 	fmt.Println("hello 3")
+
+	// master commit
+	fmt.Println("hello master")
 }
