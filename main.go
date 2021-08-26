@@ -11,4 +11,7 @@ func main() {
 
 	// master commit
 	fmt.Println("hello master")
+
+	// change in hot-fix
+	fmt.Println("hello hot-fix")
 }
