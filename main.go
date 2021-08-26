@@ -17,4 +17,7 @@ func main() {
 
 	// after push to github
 	fmt.Println("hello push to github")
+	
+	// test pull
+	fmt.Println("hello test pull")
 }
